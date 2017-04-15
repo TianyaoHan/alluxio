@@ -50,7 +50,7 @@ public class AccessControlException extends AlluxioException {
   }
 
   /**
-   * Constructs a new exception with the specified exception message, the cause and multiple
+   * Constructs a new exception with the specified exception message, the cause, and multiple
    * parameters.
    *
    * @param message the exception message
